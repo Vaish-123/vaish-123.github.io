@@ -816,7 +816,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact {
-  padding-bottom: 130px;
+  /* padding-bottom: 130px; */
 }
 
 .contact .info {
@@ -1083,4 +1083,13 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+.customFooter {
+  background: linear-gradient(to bottom, white, #00000082);
+  /* White to black gradient */
+  padding: 20px;
+  color: #110d0d;
+  /* Ensure the text is visible on darker background */
+  text-align: center;
 }
