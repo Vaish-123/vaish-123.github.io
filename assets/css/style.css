@@ -1086,10 +1086,9 @@ section {
 }
 
 .customFooter {
-  background: linear-gradient(to bottom, white, #00000082);
   /* White to black gradient */
+  background: linear-gradient(to bottom, white, #00000082);
   padding: 20px;
   color: #110d0d;
-  /* Ensure the text is visible on darker background */
   text-align: center;
 }
