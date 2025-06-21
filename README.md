@@ -1,33 +1,32 @@
-# Vaishnav V Nampoothiri
+# Vaishnav V Nampoothiri
 
-**Full‑Stack Developer • Innovator • Lifelong Learner**
+**Full‑Stack Developer • Problem‑Solver • Continuous Learner**
 
 ---
 
 ## About Me
 
-I’m Vaishnav—a passionate problem‑solver who loves turning big ideas into beautifully crafted web experiences. Over the past 3 years I’ve:
+I’m Vaishnav—a passionate full‑stack developer who loves turning complex ideas into polished, user‑friendly web apps. Over the last three years I’ve:
 
-- **Led** the development of a real‑time Customer Risk Management platform used by 1,000+ daily enterprise users  
-- **Architected** and deployed a smart Building Management System on Azure that cut manual monitoring by 40%  
-- **Freelanced** on MERN‑stack projects, delivering custom apps that helped small businesses grow their online presence  
-- **Won** “Best UX” at the 2022 Campus Hackathon, leading a team of four to build an award‑winning prototype  
+- **Led development** of a Customer Risk Management System at Quadwave Consulting, serving real‑time risk insights to enterprise clients  
+- **Built** a Building Management System using .NET, Angular and Azure Blob Storage, optimizing data flows for smarter facilities  
+- **Freelanced** as a MERN Stack Developer, delivering bespoke Node.js + React applications for small businesses  
+- Graduated with a B.Tech in Electronics & Communication (CGPA 8.5) and continually sharpen my skills with side projects
 
-When I’m not coding, you’ll find me smashing shuttlecocks on the badminton court, lost in a fantasy novel, or curating the perfect playlist to fuel my next big idea.
+When I’m not coding, you’ll find me smashing shuttlecocks on the badminton court, diving into a new novel, or curating a playlist that fuels my next big idea.
 
 ---
 
 ## Highlights
 
-- 🏆 **Hackathon Champion** – Best UX, 2022  
-- 🚀 **Enterprise Impact** – Managed live data for global clients  
-- 🎓 **Academic Top‑10%** – B.Tech in Electronics & Communication (CGPA 8.5)  
-- 📈 **Continuous Growth** – Active open‑source contributor & tech blogger  
+- ⭐ **Risk Management Platform**: Architected end‑to‑end .NET/Angular solution handling 1000+ daily users  
+- 🚀 **Scalable Cloud Infra**: Deployed on Azure with CI/CD pipelines ensuring zero‑downtime updates  
 
 ---
 
-## Connect
+## 📞 Connect with Me
 
-✉️ vaishnavnampoothiri@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vaishnav‑vn)  
-🌐 [My Portfolio](https://vaish-123.github.io/)
+- **Email:** vaishnavnampoothiri@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/vaishnav‑vn  
+
+Feel free to explore my live portfolio at [vaish‑123.github.io](https://vaish‑123.github.io/) and drop me a line!
